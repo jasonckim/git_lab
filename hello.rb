@@ -5,3 +5,5 @@ if name = Jason
 else
 	puts "thats ok, we can't all have a cool name"
 end
+
+puts 2 + 2
